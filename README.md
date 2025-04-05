@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**0xpromethium/0xpromethium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```css
+┌[KernKraftwerk@znkkw.at]-(~)
+└> mefetch
+```
+ 
 
-Here are some ideas to get you started:
+<div style="display:block;text-align:left"><img align="left" src="https://wiki.gentoo.org/images/thumb/e/ee/Gblend.png/117px-Gblend.png" border="0" style="width:156px;">
+  
+  ```css
+  Kernkraftwerk@GitHub
+  -----------------
+  Name: Kernkraft
+  OS:Gentoo
+  Languages: ["Rust", "C", "C++", "Haskell",
+              "AGDA", "COQ", "Bash", "Java"]
+  Interests: ["Refactoring", "Linux", "Windows Manager",
+              "i3wm", "Formal methods", "Category theory"
+              "cryptography", "P2P Networking"  ]  
+Uptime: 19 Years
+  ```
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
