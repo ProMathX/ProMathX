@@ -17,7 +17,7 @@
   Interests: ["Refactoring", "Linux", "Windows Manager",
               "i3wm", "Formal methods", "Category theory"
               "cryptography", "P2P Networking"  ]  
-Uptime: 19 Years
+Uptime:  20 Years
   ```
 </div>
 
