@@ -13,7 +13,7 @@
   Name: Kernkraft
   OS:Gentoo
   Languages: ["Rust", "C", "C++", "Haskell",
-              "AGDA", "COQ", "Bash", "Java"]
+              "AGDA", "COQ", "Bash", "Java", "R"]
   Interests: ["Refactoring", "Linux", "Windows Manager",
               "i3wm", "Formal methods", "Category theory"
               "cryptography", "P2P Networking"  ]  
