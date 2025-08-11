@@ -37,7 +37,7 @@ Uptime:  20 Years
 
 <details>
   <summary><b>PGP</b></summary>
-  ```asciiarmor
+ ```plaintext
 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
 
