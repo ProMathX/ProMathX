@@ -37,7 +37,7 @@ Uptime:  20 Years
 
 <details>
   <summary><b>PGP</b></summary>
- ```text
+```gpg
 
  -----BEGIN PGP PUBLIC KEY BLOCK-----
 
