@@ -20,15 +20,6 @@ Uptime:  21 Years
   ```
 </div>
 
-
-<details>
-  <summary><b>Stats</b></summary>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=promathx&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-
-</details>
-
-
 <details>
   <summary><b>PGP</b></summary>
 
