@@ -10,7 +10,7 @@
 ```
  
 
-<div style="display:block;text-align:left"><img align="left" src="https://wiki.gentoo.org/images/thumb/e/ee/Gblend.png/117px-Gblend.png" border="0" style="width:156px;">
+<div style="display:block;text-align:left"><img align="left" src="https://www.debian.org/logos/openlogo-nd.svg" border="0" style="width:156px;">
   
   ```css
   Kernkraftwerk@GitHub
