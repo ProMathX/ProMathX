@@ -16,13 +16,7 @@
   Kernkraftwerk@GitHub
   -----------------
   Name: Kernkraft
-  OS:Gentoo
-  Languages: ["Rust", "C", "C++", "Haskell",
-              "AGDA", "COQ", "Bash", "Java", "R"]
-  Interests: ["Refactoring", "Linux", "Windows Manager",
-              "i3wm", "Formal methods", "Category theory"
-              "cryptography", "P2P Networking"  ]  
-Uptime:  20 Years
+Uptime:  21 Years
   ```
 </div>
 
@@ -99,9 +93,6 @@ YvN+/FoKAcJnnqofXe+bqQZ/yMESNrnk
 
 
 </details>
-
-## Profile Views
- ![](https://count.getloli.com/get/@promathx.github.readme:name?theme=3d-num)
 
 
 
